@@ -2,7 +2,7 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */12 * * *'
   push:
     branches:
       - main
@@ -36,7 +36,9 @@ jobs:
         #run: python ${{ github.workspace }}/qita.py
         
       - name: 提交更改
-        run: |   
+        run: |
+          git config --local user.email "ssili@126.com"
+          git config --local user.name "ssili126"
           git add .
           git commit *.txt -m "Add generated file"
           git commit *.m3u -m "Add generated file"
