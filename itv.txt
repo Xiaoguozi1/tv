@@ -1,4 +1,3 @@
-戏曲频道,#genre#
 高平电视台,http://live.gprmt.cn:80/gpnews/hd/live.m3u8
 高平电视台,http://live.gprmt.cn/gpnews/hd/live.m3u8
 长治公共,http://live.njgdmm.com:80/changzhi/cztv2.m3u8
@@ -48,7 +47,6 @@
 山西文体生活,http://live.cooltv.top/tv/cutv.php?id=sxgg
 山西影视,http://live.cooltv.top/tv/cutv.php?id=sxys
 山西影视,http://live.cooltv.top/tv/tide.php?id=sxys
-央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8(超清)1080p
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8(超清)1080p
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8(超清)1080p
@@ -1068,7 +1066,6 @@ CETV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001064/index
 CETV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://1.30.18.218:20080/hls/135/index.m3u8
-卫视频道,#genre# 
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8(超清)1080p
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8(高清)1080p
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8(高清)1080p
@@ -2213,7 +2210,6 @@ CETV4,http://1.30.18.218:20080/hls/135/index.m3u8
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
-上党梆子,#genre#
 三关排宴,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cksb337og65id52tlh5g&ratio=720p&line=0
 汉阳堂二,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cbh4u4jc77ub6c701490&ratio=720p&line=0
 搜杜府,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cbqptebc77u2cj6jtfmg&ratio=720p&line=0
@@ -2289,7 +2285,6 @@ CETV4,http://1.30.18.218:20080/hls/135/index.m3u8
 状元媒,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cbqq0pbc77ua7rfre8dg&ratio=720p&line=0
 混冤案,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cbqp643c77u04huteovg&ratio=720p&line=0
 徐策跑城,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7heigbc77uej28npc6g&ratio=720p&line=0
-豫剧,#genre#
 余洪招婿,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ck160ofog65ok4s6jkl0&ratio=720p&line=0
 包青天,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce2257jc77u7rslqcjeg&ratio=720p&line=0
 怒铡许翠萍,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgrvvobc77uepdqrdmkg&ratio=720p&line=0
@@ -2329,7 +2324,6 @@ CETV4,http://1.30.18.218:20080/hls/135/index.m3u8
 豫剧倒霉大叔的婚事,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000chg52tvog65q58vv7fjg&ratio=720p&line=0
 豫剧焦裕禄,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000chfmer7og65otft5uu60&ratio=720p&line=0
 豫剧包青天,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ch5qgdrc77uc2e32abf0&ratio=720p&line=0
-经典电影,#genre#
 地道战,https://s6.bfzycdn.com/video/didaozhangaoqingban/HD/index.m3u8
 地雷战,https://cdn.wls911.com:777/20220415/gpCtZ766/index.m3u8
 刘三姐,https://v1.1080tg.com/202308/19/3aYAHdn8qW2/video/index.m3u8
